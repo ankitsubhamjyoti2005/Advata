@@ -1,2 +1,1 @@
-# HMS
-The Hospital Managment System
+advata
